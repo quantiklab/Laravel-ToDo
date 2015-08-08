@@ -8,7 +8,7 @@ A simple todo app created with laravel with multiple user account support.
 
 Clone the repository-
 ```
-https://github.com/quantiklab/Todo-App.git
+https://github.com/quantiklab/Laravel-ToDo.git
 ```
 
 Then cd into the folder with this command-
