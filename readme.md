@@ -1,7 +1,6 @@
 # Laravel ToDo App
 
 A simple todo app created with laravel with multiple user account support.
-Like nice notification among various task completation like user registration, login, logout etc. Todos are categorized under various category and added some cool ajax magic.
 
 
 
